@@ -7,7 +7,6 @@ wheels/
 *.egg-info
 scripts/
 instance/
-create_db.py
 
 # Virtual environments
 .venv
